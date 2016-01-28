@@ -4,7 +4,7 @@
   "description": "Chief Party Officer of your Slack channels",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "node_modules/.bin/eslint ./**/*.js --"
   },
   "repository": "infiniteluke/partybot",
   "author": "Luke Herrington",
