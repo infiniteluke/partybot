@@ -9,7 +9,13 @@
   "repository": "infiniteluke/partybot",
   "author": "Luke Herrington",
   "license": "MIT",
+  "engines": {
+    "node": ">=5.0.0"
+  },
   "dependencies": {
     "botkit": "0.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^1.10.3"
   }
 }
