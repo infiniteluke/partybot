@@ -8,5 +8,8 @@
   },
   "repository": "infiniteluke/partybot",
   "author": "Luke Herrington",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "0.0.5"
+  }
 }
